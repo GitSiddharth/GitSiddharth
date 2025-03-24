@@ -19,7 +19,7 @@ I'm a Computer Science graduate with a passion for research and a deep interest 
 - 🎓 **Education:** B.Sc/M.Sc in Computer Science from Medi-Caps University.
 - 🔬 **Research:** Actively engaged in research in areas such as Machine Learning/Data Science/Cybersecurity/etc.
 - 💻 **Tech Enthusiast:** Constantly working on small projects and exploring new technologies. I believe that continuous learning and experimentation drive innovation.
-- 🌱 **Currently Learning:** [Mention any new tech or programming language you're learning].
+- 🌱 **Currently Learning:** Carbon,Vale,Generative AI & Large Language Models (LLMs).
 - 🤝 **Let's Connect:** I'm open to collaboration and discussions on research and tech projects.
 
 ## Skills & Tools
@@ -28,7 +28,7 @@ I'm a Computer Science graduate with a passion for research and a deep interest 
 - **Research Tools:** MATLAB, R, Jupyter Notebook
 - **Technologies:** Machine Learning, Data Science, Cloud Computing, Cybersecurity
 - **Other Tools:** Git, Docker, Kubernetes
-
+<!---
 ## Projects & Research
 
 Here on GitHub, you'll find a collection of my projects, research contributions, and experiments. Feel free to explore, fork, or collaborate!
@@ -36,7 +36,7 @@ Here on GitHub, you'll find a collection of my projects, research contributions,
 - [Project 1](#) - Brief description of your project.
 - [Project 2](#) - Brief description of your project.
 - [Research Publication](#) - Link to a publication or research paper.
-
+--->
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
