@@ -16,7 +16,7 @@ I'm a Computer Science graduate with a passion for research and a deep interest 
 
 ## About Me
 
-- 🎓 **Education:** B.Sc/M.Sc in Computer Science from Medi-Caps University.
+- 🎓 **Education:** B.Tech in Computer Science from Medi-Caps University.
 - 🔬 **Research:** Actively engaged in research in areas such as Machine Learning/Data Science/Cybersecurity/etc.
 - 💻 **Tech Enthusiast:** Constantly working on small projects and exploring new technologies. I believe that continuous learning and experimentation drive innovation.
 - 🌱 **Currently Learning:** Carbon,Vale,Generative AI & Large Language Models (LLMs).
